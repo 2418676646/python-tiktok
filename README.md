@@ -9,10 +9,16 @@ pip install requests time random bs4
 ```
 
 2. 先去抖音官网https://www.douyin.com =>查找你要监控的用户节界面 =>然后看到用户名再次点进去 
-3. 复制地址然后拼接?showTab=post
+
+2. 先去抖音官网https://www.douyin.com =>查找你要监控的用户节界面 =>然后看到用户名再次点进去 
+3. 复制user/后面的编码地址然后拼接?showTab=post
 
 ```
-https://www.douyin.com/user/MS4wLjABAAAAnzEL9OO5AIL8DVCxAahOBqDoFwd'+'?showTab=post
+https://www.douyin.com/user/复制链接到此出'+'?showTab=post
+```
+示例
+```
+https://www.douyin.com/user/MS4wLjABAAAAqdZaxHszgw-AwIKTj5lbYi4ehlYD4GDWcnX41t1GzCw?showTab=post
 ```
 
 4. 替换2处为你的信息，headers信息F12自己获取
