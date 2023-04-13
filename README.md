@@ -6,9 +6,8 @@ python脚本监听抖音用户作品以及粉丝变动然后推送
 
 ```
 pip install requests time random bs4
-```
 
-2. 先去抖音官网https://www.douyin.com =>查找你要监控的用户节界面 =>然后看到用户名再次点进去 
+```
 
 2. 先去抖音官网https://www.douyin.com =>查找你要监控的用户节界面 =>然后看到用户名再次点进去 
 3. 复制user/后面的编码地址然后拼接?showTab=post
